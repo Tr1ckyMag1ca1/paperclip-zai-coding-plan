@@ -1,0 +1,6 @@
+.DS_Store
+*.sql
+*.sql.gz
+.env
+.env.local
+secrets/
